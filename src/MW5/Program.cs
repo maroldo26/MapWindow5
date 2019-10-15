@@ -34,7 +34,7 @@ namespace MW5
             // NinjectContainer
             // UnityApplicationContainer
             // return  new NinjectContainer();
-            return new WindsorCastleContainer();
+            return new WindsorCastleContainer(); 
         }
 
         //private static void DumpFormats()
